@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
