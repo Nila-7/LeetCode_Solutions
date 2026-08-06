@@ -16,5 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
