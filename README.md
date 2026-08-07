@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1148-article-views-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1661-average-time-of-process-per-machine) |
+| [1683-invalid-tweets](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
