@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Nila-7/LeetCode_Solutions/tree/master/2525-categorize-box-according-to-criteria) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nila-7/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
