@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nila-7/LeetCode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
