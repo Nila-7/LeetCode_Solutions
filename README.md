@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1927-sum-game](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1927-sum-game) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Nila-7/LeetCode_Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nila-7/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
+| [1927-sum-game](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nila-7/LeetCode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bit Manipulation
 |  |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
