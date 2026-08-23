@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 ## Prefix Sum
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
