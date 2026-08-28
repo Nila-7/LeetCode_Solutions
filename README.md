@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -106,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Nila-7/LeetCode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
