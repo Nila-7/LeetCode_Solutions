@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
+| [0940-distinct-subsequences-ii](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Nila-7/LeetCode_Solutions/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nila-7/LeetCode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nila-7/LeetCode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nila-7/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Nila-7/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
